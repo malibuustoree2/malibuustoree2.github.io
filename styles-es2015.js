@@ -483,7 +483,7 @@ module.exports = exported;
 
 /***/ }),
 
-/***/ 3:
+/***/ 4:
 /*!**************************************************************************************************!*\
   !*** multi ./node_modules/@angular/material/prebuilt-themes/pink-bluegrey.css ./src/styles.scss ***!
   \**************************************************************************************************/
@@ -496,5 +496,5 @@ module.exports = __webpack_require__(/*! C:\Users\Francisco\laestore\src\styles.
 
 /***/ })
 
-},[[3,"runtime"]]]);
+},[[4,"runtime"]]]);
 //# sourceMappingURL=styles-es2015.js.map
