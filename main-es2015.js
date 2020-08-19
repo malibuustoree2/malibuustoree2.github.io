@@ -192,7 +192,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const config = { url: 'http://186.104.115.38:9090', options: {} };
+const config = { url: 'https://carbonated-aeolian-stew.glitch.me/', options: {} };
 class AppModule {
 }
 AppModule.ɵmod = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineNgModule"]({ type: AppModule, bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_3__["AppComponent"]] });
